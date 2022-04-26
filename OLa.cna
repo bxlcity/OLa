@@ -23,7 +23,7 @@ command wellcome {
 popup beacon_bottom {
     menu "OLa(欧拉)"{
 
-    	menu "☠ 建议执行频率不要过快 :)" {}
+    	menu "☠ It is recommended that the frequency of execution should not be too fast :)" {}
 
     	# Plugin Loader
         
